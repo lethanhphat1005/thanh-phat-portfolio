@@ -6,7 +6,7 @@ import { useState } from "react";
 /**
  * COMPONENTS
  */
-import Navbar from "./NavBar";
+import Navbar from "./Navbar";
 
 const Header = () => {
     const [navOpen, setNavOpen] = useState(false);
