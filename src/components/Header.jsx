@@ -4,7 +4,7 @@
 import { useState } from "react";
 
 /**
- * COMPONENTS
+ * Components
  */
 import Navbar from "./Navbar";
 
