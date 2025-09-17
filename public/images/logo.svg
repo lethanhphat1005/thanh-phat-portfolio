@@ -1,3 +1,23 @@
-<svg width="40" height="41" viewBox="0 0 40 41" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path fill-rule="evenodd" clip-rule="evenodd" d="M20.0299 20.6068L20.0299 15.6876L20.0299 11.644C20.0299 11.07 19.8006 10.5197 19.3929 10.1155L17.5713 8.30986L13.8204 4.58053C12.4628 3.23077 10.1508 4.19237 10.1508 6.10676L10.1508 25.2632C10.1508 27.1783 12.4643 28.1396 13.8215 26.7883L20.0299 20.6068ZM20.0299 20.6068L20.0299 25.5517L20.0299 29.6364C20.0299 30.2088 20.258 30.7577 20.6636 31.1615L26.1786 36.6525C27.5358 38.0037 29.8493 37.0425 29.8493 35.1273V15.976C29.8493 14.0609 27.5358 13.0996 26.1786 14.4508L20.0299 20.5727L20.0299 20.6068Z" fill="white"/>
-</svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+<svg xmlns="http://www.w3.org/2000/svg"
+aria-label="Flutter" role="img"
+viewBox="0 0 512 512">
+<rect
+width="512" height="512"
+rx="15%"
+fill="#e8e9eb"/>
+<defs>
+<linearGradient id="f" x1="249" x2="321" y1="401" y2="358" gradientUnits="userSpaceOnUse">
+<stop stop-opacity=".4"/>
+<stop stop-color="#124793" stop-opacity="0" offset="1"/>
+</linearGradient>
+</defs>
+<g fill="#5cc8f8">
+<path d="M191.45,342.89,249.11,401,407.75,241.12H292.4Z"/>
+<path d="M292.4,66.69H407.75L162.61,313.82l-57.7-58.13Z"/>
+</g>
+<path fill="#075b9d" d="M249.11,401l43.29,43.59H407.75L306.8,342.89Z"/>
+<path d="M334.67,371.16,306.8,342.89,249.11,401Z" fill="url(#f)"/>
+<path d="M191.45,342.87l57.69-58.18,57.7,58.15L249.14,401Z" fill="#16b9fd"/>
+</svg>
