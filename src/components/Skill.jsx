@@ -2,19 +2,19 @@ import SkillCard from "./SkillCard";
 
 const skillItem = [
     {
-        imgSrc: 'images/figma.svg',
-        label: 'Figma',
-        desc: 'Design tool'
+        imgSrc: 'images/flutter.svg',
+        label: 'Flutter',
+        desc: 'Framework'
     },
     {
-        imgSrc: 'images/css3.svg',
-        label: 'CSS',
+        imgSrc: 'images/tailwindcss.svg',
+        label: 'TailwindCSS',
         desc: 'User Interface'
     },
     {
-        imgSrc: 'images/javascript.svg',
-        label: 'JavaScript',
-        desc: 'Interaction'
+        imgSrc: 'images/java.png',
+        label: 'Java',
+        desc: 'Programming Language'
     },
     {
         imgSrc: 'images/nodejs.svg',
@@ -22,24 +22,29 @@ const skillItem = [
         desc: 'Web Server'
     },
     {
-        imgSrc: 'images/expressjs.svg',
-        label: 'ExpressJS',
-        desc: 'Node Framework'
-    },
-    {
         imgSrc: 'images/mongodb.svg',
         label: 'MongoDB',
         desc: 'Database'
     },
     {
-        imgSrc: 'images/react.svg',
-        label: 'React',
-        desc: 'Framework'
+        imgSrc: 'images/firebase.svg',
+        label: 'Firebase',
+        desc: 'Database'
+    },
+    // {
+    //     imgSrc: 'images/react.svg',
+    //     label: 'ReactNative',
+    //     desc: 'Framework'
+    // },
+    {
+        imgSrc: 'images/github.svg',
+        label: 'GitHub',
+        desc: 'Code hosting platform'
     },
     {
-        imgSrc: 'images/tailwindcss.svg',
-        label: 'TailwindCSS',
-        desc: 'User Interface'
+        imgSrc: 'images/figma.svg',
+        label: 'Figma',
+        desc: 'Design tool'
     },
 ];
 
@@ -48,7 +53,7 @@ const Skill = () => {
         <section className="section">
             <div className="container">
 
-                <h2 className="headline-2">
+                <h2 className="headline-2 reveal-up">
                     Essential Tools I use
                 </h2>
 
@@ -67,6 +72,7 @@ const Skill = () => {
                                 imgSrc={imgSrc}
                                 label={label}
                                 desc={desc}
+                                classes="reveal-up"
                             />
                         ))
                     }
