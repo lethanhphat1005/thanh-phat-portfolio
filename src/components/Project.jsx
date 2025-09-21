@@ -8,7 +8,7 @@ const projects = [
         imgSrc: 'images/project-1.png',
         title: 'Fullstack TradeUp App',
         tags: ['Flutter', 'MVC', 'Firebase'],
-        projectLink: 'https://github.com/WhiteCornFour/TradeUpApp'
+        projectLink: 'https://github.com/lethanhphat1005/TradeUpApp'
     },
     {
         imgSrc: 'images/no-image.jpg',
